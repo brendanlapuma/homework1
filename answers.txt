@@ -3,3 +3,7 @@ What is the difference between a merge and a rebase?
 When you merge a repository, all commits made to the new branch will only exist on that branch. In order to see those changes in the main branch, you must merge the branch back into the main branch. 
 When you rebase a repository, all commits made to the new branch will exist on that branch and the main branch. Effectifely, rebasing will "replace" the main branch with the new one that you have made,
 which makes merging not necessary to incorporate new changes. 
+
+What is a remote repository?
+
+Remote repositories are versions of a project that exist on the internet, or somewhere that is not your local device. 
